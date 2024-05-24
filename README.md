@@ -17,7 +17,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 ![](./design/desktop-preview.jpg)
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- My Live Site:(https://mohabelel.github.io/-mohabelel-Front-mentor-challenge-07/)
 
 
 
