@@ -30,6 +30,6 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mohabelel](https://www.frontendmentor.io/profile/yourusername)
 
 
